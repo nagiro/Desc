@@ -1,0 +1,1 @@
+C:\Users\nagiro\Desktop\repository\trunk\lib\symfony\1.4.1\data\bin\symfony1.4.bat %1 %2 %3 %4 %5 %6
